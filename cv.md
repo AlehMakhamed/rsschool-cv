@@ -2,5 +2,5 @@
 
 ##Contacts
 
-mail: aleh.makhamed@gamil.com
+mail: aleh.makhamed@gmail.com
 discord: AlehMakhamed
